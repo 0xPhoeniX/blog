@@ -1,4 +1,4 @@
-baseURL = "https://0xphoenix.github.io"
+baseURL = "https://0xphoenix.github.io/"
 languageCode = "en-us"
 title = "Yev's security notes"
 theme = "minos"
