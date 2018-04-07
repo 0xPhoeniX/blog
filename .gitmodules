@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/0xPhoeniX/0xphoenix.github.io.git
